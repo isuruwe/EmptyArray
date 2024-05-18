@@ -37,7 +37,7 @@ public void main(String[] args) {
     }
     System.out.println("Result: " + result);
 
-    // Testing with an array that contains negative numbers
+
     int[] numsWithNegatives = new int[]{1, -2, -3, 4};
     try {
         result = avg(numsWithNegatives);
